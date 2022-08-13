@@ -1,1 +1,1 @@
-# git-first
+# my first repository
